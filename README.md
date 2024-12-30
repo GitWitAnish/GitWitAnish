@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Anish Karki</h1>
-- ⚡ Fun fact **Earth is round.**
+- ⚡ Fun fact Earth is round.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
