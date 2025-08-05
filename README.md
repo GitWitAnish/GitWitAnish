@@ -2,12 +2,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=gitwitanish.gitwitanish&"  />
-</div>
-
-###
-
 <h5 align="center">Exploring Backend Development and Machine Learning</h5>
 
 ###
