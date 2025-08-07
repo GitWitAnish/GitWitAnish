@@ -27,9 +27,7 @@
 </div>
 
 ###
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWc0cnIybTNicjh1bzU0bXVsNGV4amdvb280cHdnc2F3cW1peDFibyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif"  />
 
-###
 <h3 align="left">Machine Learning:</h3>
 
 ###
