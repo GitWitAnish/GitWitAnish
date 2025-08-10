@@ -48,7 +48,7 @@
 
 ###
 
-<h3 align="left">Others Languages and Tools:</h3>
+<h3 align="left">Other Languages and Tools:</h3>
 
 ###
 
