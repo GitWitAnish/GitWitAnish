@@ -92,6 +92,9 @@
     <a href="https://leetcode.com/u/gitwitanish/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="30" height="25" alt="leetcode logo" />
   </a>
+    <a href="https://www.kaggle.com/gitwitanish/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="30" height="25" alt="kaggle logo" />
+  </a>
 </div>
 
 ###
