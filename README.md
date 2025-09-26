@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="center">Backend Development and Machine Learning</h5>
+<h5 align="center">I bend servers and minds to my will.</h5>
 
 ###
 
@@ -129,6 +129,6 @@
 
 ###
 
-<p align="center">🚀 Fun fact: Frontend scares me more than bugs.</p>
+<h4 align="center">🚀 Fun fact: Frontend scares me more than bugs.</h4>
 
 ###
