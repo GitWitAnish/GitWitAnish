@@ -79,10 +79,6 @@
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=heroku" height="40" alt="heroku logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
 </div>
 
 ###
@@ -117,6 +113,6 @@
 
 ###
 
-<h4 align="center">🚀 Fun fact: Frontend scares me more than bugs.</h4>
+<h4 align="center"> Fun fact: Frontend scares me more than bugs.</h4>
 
 ###
