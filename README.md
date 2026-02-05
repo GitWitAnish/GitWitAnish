@@ -105,6 +105,3 @@
 
 ###
 
-<h4 align="center"> Fun fact: Frontend scares me more than bugs.</h4>
-
-###
