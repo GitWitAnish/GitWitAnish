@@ -1,8 +1,5 @@
 <h1 align="center">Hi , I'm Anish Karki</h1>
 
-###
-
-<h5 align="center">I bend servers and minds to my will.</h5>
 
 ###
 
